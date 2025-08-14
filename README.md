@@ -82,9 +82,3 @@ O Acertô será oferecido no modelo **freemium**, com recursos básicos gratuito
 
 ---
 
-## Diferenciais
-
-- Design jovem e moderno com paleta verde escuro  
-- Interface intuitiva que dá vontade de usar  
-- Foco em simplicidade e rapidez  
-- Ferramentas visuais para melhor entendimento das dívidas  
