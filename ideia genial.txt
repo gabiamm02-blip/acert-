@@ -1,0 +1,22 @@
+Inteligência de Gastos por Categoria
+Essa funcionalidade vai além de apenas dividir as despesas. Ela usa a inteligência do sistema para oferecer uma análise detalhada dos gastos do grupo. Em vez de apenas mostrar que "João deve R$ 50 para Maria", o aplicativo pode mostrar no que esse dinheiro foi gasto.
+
+Como funcionaria?
+
+Ao registrar uma despesa, os usuários seriam incentivados a categorizá-la (Ex: "Mercado", "Restaurante", "Aluguel", "Viagem"). Com esses dados, o aplicativo geraria relatórios e gráficos inteligentes que mostram:
+
+Padrões de Gastos: Qual é a maior despesa do grupo no mês? O grupo gasta mais com comida, transporte ou lazer?
+
+Comparativo de Membros: Qual membro do grupo contribui mais em uma categoria específica? Por exemplo, "Maria pagou 70% das despesas de 'Restaurante' no último mês".
+
+Sugestões Inteligentes: O aplicativo poderia dar dicas para o grupo economizar com base nos padrões de gasto. Por exemplo, "Vocês gastaram R$ 500 com aplicativos de delivery no último mês. Que tal cozinhar mais em casa?".
+
+Alertas de Orçamento: O grupo poderia definir um orçamento máximo para uma categoria (como "Lazer"). O aplicativo enviaria alertas quando o limite estivesse perto de ser atingido.
+
+Por que essa ideia?
+
+Valor Adicional: O Acertô deixa de ser apenas uma calculadora de débitos e se torna uma ferramenta de gestão financeira colaborativa, oferecendo insights valiosos.
+
+Engajamento do Usuário: Gráficos e relatórios visuais são mais interessantes do que uma simples lista de débitos. Isso incentivaria os usuários a usar o aplicativo com mais frequência.
+
+Resolução de Conflitos: Ao trazer transparência para os gastos de forma visual, o recurso pode ajudar a iniciar conversas sobre finanças de forma menos confrontadora, mostrando dados objetivos em vez de acusações.
